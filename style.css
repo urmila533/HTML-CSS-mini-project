@@ -65,11 +65,11 @@ body
 }
 #msg
 {
-     font-size: 30px;
-     color: #ffffc7;
+     font-size: 50px;
+     color:  blue;
 }
 .msg-container{
-    height: 80vmin;
+    height: 100vmin;
     display: flex;
     justify-content: center;
     align-items: center;
